@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salesporium", "Salesporium\Salesporium.csproj", "{4821462B-A582-46EB-9ECC-B1DD70EF974E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4821462B-A582-46EB-9ECC-B1DD70EF974E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4821462B-A582-46EB-9ECC-B1DD70EF974E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4821462B-A582-46EB-9ECC-B1DD70EF974E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4821462B-A582-46EB-9ECC-B1DD70EF974E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B01B05C1-82F0-40F5-A944-29953C111371}
+	EndGlobalSection
+EndGlobal
